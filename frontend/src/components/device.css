@@ -1,0 +1,33 @@
+.device__info{
+    display: flex;
+    flex-direction: column;
+}
+
+.device{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+    padding: 20px 80px;
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px solid black;
+}
+
+.form__section{
+    width: 50%;
+    /* border: 1px solid red; */
+    padding: 20px 10px;
+    margin: auto;
+}
+
+.h1{
+    border: 1px solid black;
+}
+p{
+    display: inline-block;
+}
+
+.device__attr{
+    position: absolute;
+    margin-left: 150px;
+}
